@@ -41,5 +41,6 @@ npm start
 ### All Set! The app will now run on the provided server🔥.
 
 ### Screenshots:
-![foodApp Image](media/foodApp.png)
+![foodApp Image](https://raw.githubusercontent.com/tyagidipanshu098/media/main/foodApp.png)
+
 
