@@ -15,6 +15,28 @@
 ## Steps to Set Up the Project:
 
 ### Step 1: Clone the Repository
-
+#### Open the Terminal in the folder you want to download the project and run:
 ```bash
-git clone [repository_url]
+git clone https://github.com/tyagidipanshu098/foodApp.git
+```
+### Step 2: Open the Project in VS Code
+```bash
+cd foodApp
+code .
+```
+### OR
+#### You can directly open the foodApp folder in VS Code by drag & drop the foodApp folder into the VS Code.
+### Step 3: Install Dependencies
+#### Open the terminal in VS Code and run:
+```bash
+npm install
+```
+### Step 4: Run the Project
+#### In the terminal, execute:
+```bash
+npm start
+```
+
+## This command will start the project and create a server for access.
+
+## All Set! The app will now run on the provided server.
