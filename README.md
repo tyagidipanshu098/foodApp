@@ -38,5 +38,4 @@ npm start
 ```
 
 ## This command will start the project and create a server for access.
-
-## All Set! The app will now run on the provided server.
+## All Set! The app will now run on the provided server🔥.
